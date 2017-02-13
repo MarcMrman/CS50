@@ -1,7 +1,7 @@
 # CS50
 All code I've submitted for CS50 - Introduction to Computer Science at Harvard.
 
-PSET1 - Basic programs in C
+#PSET1 - Basic programs in C
 PSET2 - Basic encryption (caesar/vigenere) in C
 PSET3 - Game of fifteen + binary search program in C
 PSET4 - Recover and resize programs in C
