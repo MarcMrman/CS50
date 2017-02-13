@@ -1,9 +1,9 @@
 # CS50
 All code I've submitted for CS50 - Introduction to Computer Science at Harvard.
 
-PSET1 - Basic programs in C <br />
-PSET2 - Basic encryption (caesar/vigenere) in C <br />
-PSET3 - Game of fifteen + binary search program in C <br />
-PSET4 - Recover and resize programs in C <br />
-PSET5 - Spellcheck program in C <br />
-PSET6 - PSET1 programs rewritten for Python. Includes Twitter "sentiments" program implemented in Python.
+<b>PSET1</b> - Basic programs in C <br />
+<b>PSET2</b> - Basic encryption (caesar/vigenere) in C <br />
+<b>PSET3</b> - Game of fifteen + binary search program in C <br />
+<b>PSET4</b> - Recover and resize programs in C <br />
+<b>PSET5</b> - Spellcheck program in C <br />
+<b>PSET6</b> - PSET1 programs rewritten for Python. Includes Twitter "sentiments" program implemented in Python.
